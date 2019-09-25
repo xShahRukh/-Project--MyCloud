@@ -1,0 +1,1412 @@
+.FancyOrange.rnr-s-empty > .rnr-c
+{
+background:none;
+
+}
+.FancyOrange.rnr-s-empty > .rnr-c .rnr-leftbricks
+{
+margin-right: 10px;
+}
+.FancyOrange.rnr-s-empty > .rnr-c .rnr-rightbricks
+{
+margin-left: 10px;
+}
+.FancyOrange.rnr-s-empty > :not(.runner-c) > *.style1,
+.FancyOrange.rnr-s-empty > * > :not(.rnr-b-wrapper) .style1
+{
+color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-empty > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.FancyOrange.rnr-s-empty > * > :not(.rnr-b-wrapper) .style1,
+.FancyOrange.rnr-s-empty > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-empty > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.FancyOrange.rnr-s-empty > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.FancyOrange.rnr-s-empty > :not(.runner-c) > *.style2,
+.FancyOrange.rnr-s-empty > * > :not(.rnr-b-wrapper) .style2
+{
+color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-empty > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.FancyOrange.rnr-s-empty > * > :not(.rnr-b-wrapper) .style2,
+.FancyOrange.rnr-s-empty > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-empty > :not(.runner-c) > *.style3,
+.FancyOrange.rnr-s-empty > * > :not(.rnr-b-wrapper) .style3
+{
+color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-empty > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.FancyOrange.rnr-s-empty > * > :not(.rnr-b-wrapper) .style3,
+.FancyOrange.rnr-s-empty > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-menu > .rnr-c
+{
+border: solid #C0C0C0 1px;border-top-right-radius: 2px;border-top-left-radius: 2px;border-bottom-right-radius: 2px;border-bottom-left-radius: 2px;
+}
+.FancyOrange.rnr-s-menu > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 1px; padding-right: 1px;
+border-bottom-right-radius: 1px; padding-right: 1px;
+
+}
+.FancyOrange.rnr-s-menu > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 1px; padding-left: 1px;
+border-bottom-left-radius: 1px; padding-left: 1px;
+
+}
+.FancyOrange.rnr-s-menu > :not(.runner-c) > *.style1,
+.FancyOrange.rnr-s-menu > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #EDF1F3;color: #333333;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-menu > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #EDF1F3;
+}
+.FancyOrange.rnr-s-menu > :not(.runner-c) > *.style2,
+.FancyOrange.rnr-s-menu > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #D2D8DC;color: #333333;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-menu > :not(.runner-c) > *.style3,
+.FancyOrange.rnr-s-menu > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #D2D8DC;color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-menu > .rnr-c .rnr-leftbricks
+{
+margin-right: 2px;
+}
+.FancyOrange.rnr-s-menu > .rnr-c .rnr-rightbricks
+{
+margin-left: 2px;
+}
+.FancyOrange.rnr-s-menu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.FancyOrange.rnr-s-menu > * > :not(.rnr-b-wrapper) .style1,
+.FancyOrange.rnr-s-menu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-menu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.FancyOrange.rnr-s-menu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.FancyOrange.rnr-s-menu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.FancyOrange.rnr-s-menu > * > :not(.rnr-b-wrapper) .style2,
+.FancyOrange.rnr-s-menu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-menu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.FancyOrange.rnr-s-menu > * > :not(.rnr-b-wrapper) .style3,
+.FancyOrange.rnr-s-menu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-hmenu > .rnr-c
+{
+background:none;
+
+}
+.FancyOrange.rnr-s-hmenu > .rnr-c .rnr-leftbricks
+{
+margin-right: 10px;
+}
+.FancyOrange.rnr-s-hmenu > .rnr-c .rnr-rightbricks
+{
+margin-left: 10px;
+}
+.FancyOrange.rnr-s-hmenu > :not(.runner-c) > *.style1,
+.FancyOrange.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style1
+{
+color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-hmenu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.FancyOrange.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style1,
+.FancyOrange.rnr-s-hmenu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 6px 4px;
+}
+.FancyOrange.rnr-s-hmenu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.FancyOrange.rnr-s-hmenu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.FancyOrange.rnr-s-hmenu > :not(.runner-c) > *.style2,
+.FancyOrange.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style2
+{
+color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-hmenu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.FancyOrange.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style2,
+.FancyOrange.rnr-s-hmenu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-hmenu > :not(.runner-c) > *.style3,
+.FancyOrange.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style3
+{
+color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-hmenu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.FancyOrange.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style3,
+.FancyOrange.rnr-s-hmenu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-undermenu > .rnr-c
+{
+border: solid #DCDCDC 1px;border-top-right-radius: 2px;border-top-left-radius: 2px;border-bottom-right-radius: 2px;border-bottom-left-radius: 2px;
+}
+.FancyOrange.rnr-s-undermenu > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 1px; padding-right: 1px;
+border-bottom-right-radius: 1px; padding-right: 1px;
+
+}
+.FancyOrange.rnr-s-undermenu > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 1px; padding-left: 1px;
+border-bottom-left-radius: 1px; padding-left: 1px;
+
+}
+.FancyOrange.rnr-s-undermenu > :not(.runner-c) > *.style1,
+.FancyOrange.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #F2F2F2;color: #FFFFFF;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-undermenu > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #F2F2F2;
+}
+.FancyOrange.rnr-s-undermenu > :not(.runner-c) > *.style2,
+.FancyOrange.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #FFFF00;color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-undermenu > :not(.runner-c) > *.style3,
+.FancyOrange.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FFFF00;color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-undermenu > .rnr-c .rnr-leftbricks
+{
+margin-right: 2px;
+}
+.FancyOrange.rnr-s-undermenu > .rnr-c .rnr-rightbricks
+{
+margin-left: 2px;
+}
+.FancyOrange.rnr-s-undermenu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.FancyOrange.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style1,
+.FancyOrange.rnr-s-undermenu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-undermenu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.FancyOrange.rnr-s-undermenu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.FancyOrange.rnr-s-undermenu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.FancyOrange.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style2,
+.FancyOrange.rnr-s-undermenu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-undermenu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.FancyOrange.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style3,
+.FancyOrange.rnr-s-undermenu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-fields > .rnr-c
+{
+border: solid #C4B1A2 1px;border-top-right-radius: 4px;border-top-left-radius: 4px;border-bottom-right-radius: 4px;border-bottom-left-radius: 4px;
+}
+.FancyOrange.rnr-s-fields > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 3px; padding-right: 2px;
+border-bottom-right-radius: 3px; padding-right: 2px;
+
+}
+.FancyOrange.rnr-s-fields > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 3px; padding-left: 2px;
+border-bottom-left-radius: 3px; padding-left: 2px;
+
+}
+.FancyOrange.rnr-s-fields > :not(.runner-c) > *.style1,
+.FancyOrange.rnr-s-fields > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #FFFFFF;
+background: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+;
+color: #000000;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-fields > .rnr-c.rnr-ch
+{
+background-color: #FFFFFF;
+background: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+;
+
+}
+.FancyOrange.rnr-s-fields > :not(.runner-c) > *.style2,
+.FancyOrange.rnr-s-fields > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #F3EBDE;color: #696969;
+font-family: Tahoma, sans-serif; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-fields > :not(.runner-c) > *.style3,
+.FancyOrange.rnr-s-fields > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FFFFFF;color: #696969;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-fields > .rnr-c .rnr-leftbricks
+{
+margin-right: 4px;
+}
+.FancyOrange.rnr-s-fields > .rnr-c .rnr-rightbricks
+{
+margin-left: 4px;
+}
+.FancyOrange.rnr-s-fields > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.FancyOrange.rnr-s-fields > * > :not(.rnr-b-wrapper) .style1,
+.FancyOrange.rnr-s-fields > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 6px;
+}
+.FancyOrange.rnr-s-fields > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 4px; background:transparent;
+}
+.FancyOrange.rnr-s-fields > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 4px; background:transparent;
+}
+.FancyOrange.rnr-s-fields > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.FancyOrange.rnr-s-fields > * > :not(.rnr-b-wrapper) .style2,
+.FancyOrange.rnr-s-fields > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 8px 4px;
+}
+.FancyOrange.rnr-s-fields > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.FancyOrange.rnr-s-fields > * > :not(.rnr-b-wrapper) .style3,
+.FancyOrange.rnr-s-fields > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-form > .rnr-c
+{
+border-top-right-radius: 10px;border-top-left-radius: 10px;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;
+}
+.FancyOrange.rnr-s-form > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 10px; padding-right: 5px;
+border-bottom-right-radius: 10px; padding-right: 5px;
+
+}
+.FancyOrange.rnr-s-form > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 10px; padding-left: 5px;
+border-bottom-left-radius: 10px; padding-left: 5px;
+
+}
+.FancyOrange.rnr-s-form > :not(.runner-c) > *.style1,
+.FancyOrange.rnr-s-form > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #00CCCC;color: #000080;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-form > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #00CCCC;
+}
+.FancyOrange.rnr-s-form > :not(.runner-c) > *.style2,
+.FancyOrange.rnr-s-form > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #FF9900;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-form > :not(.runner-c) > *.style3,
+.FancyOrange.rnr-s-form > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #6699CC;color: #003366;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-form > .rnr-c .rnr-leftbricks
+{
+margin-right: 10px;
+}
+.FancyOrange.rnr-s-form > .rnr-c .rnr-rightbricks
+{
+margin-left: 10px;
+}
+.FancyOrange.rnr-s-form > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.FancyOrange.rnr-s-form > * > :not(.rnr-b-wrapper) .style1,
+.FancyOrange.rnr-s-form > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-form > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.FancyOrange.rnr-s-form > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.FancyOrange.rnr-s-form > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.FancyOrange.rnr-s-form > * > :not(.rnr-b-wrapper) .style2,
+.FancyOrange.rnr-s-form > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-form > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.FancyOrange.rnr-s-form > * > :not(.rnr-b-wrapper) .style3,
+.FancyOrange.rnr-s-form > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-1 > .rnr-c
+{
+border: solid #C4B1A2 1px;border-top-right-radius: 2px;border-top-left-radius: 2px;border-bottom-right-radius: 2px;border-bottom-left-radius: 2px;
+}
+.FancyOrange.rnr-s-1 > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 1px; padding-right: 1px;
+border-bottom-right-radius: 1px; padding-right: 1px;
+
+}
+.FancyOrange.rnr-s-1 > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 1px; padding-left: 1px;
+border-bottom-left-radius: 1px; padding-left: 1px;
+
+}
+.FancyOrange.rnr-s-1 > :not(.runner-c) > *.style1,
+.FancyOrange.rnr-s-1 > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -moz-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -ms-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -o-linear-gradient(top, #F5F5F5, #F2F2F2);
+;
+color: #404040;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-1 > .rnr-c.rnr-ch
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -moz-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -ms-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -o-linear-gradient(top, #F5F5F5, #F2F2F2);
+;
+
+}
+.FancyOrange.rnr-s-1 > :not(.runner-c) > *.style2,
+.FancyOrange.rnr-s-1 > * > :not(.rnr-b-wrapper) .style2
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -moz-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -ms-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -o-linear-gradient(top, #F9F9F9, #F2F2F2);
+;
+color: #696969;
+font-family: Tahoma, sans-serif; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-1 > :not(.runner-c) > *.style3,
+.FancyOrange.rnr-s-1 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #F66C13;color: #D1EEEE;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-1 > .rnr-c .rnr-leftbricks
+{
+margin-right: 2px;
+}
+.FancyOrange.rnr-s-1 > .rnr-c .rnr-rightbricks
+{
+margin-left: 2px;
+}
+.FancyOrange.rnr-s-1 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.FancyOrange.rnr-s-1 > * > :not(.rnr-b-wrapper) .style1,
+.FancyOrange.rnr-s-1 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-1 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.FancyOrange.rnr-s-1 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.FancyOrange.rnr-s-1 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.FancyOrange.rnr-s-1 > * > :not(.rnr-b-wrapper) .style2,
+.FancyOrange.rnr-s-1 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-1 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.FancyOrange.rnr-s-1 > * > :not(.rnr-b-wrapper) .style3,
+.FancyOrange.rnr-s-1 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-2 > .rnr-c
+{
+border: solid #C4B1A2 1px;border-top-right-radius: 2px;border-top-left-radius: 2px;border-bottom-right-radius: 2px;border-bottom-left-radius: 2px;
+}
+.FancyOrange.rnr-s-2 > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 1px; padding-right: 1px;
+border-bottom-right-radius: 1px; padding-right: 1px;
+
+}
+.FancyOrange.rnr-s-2 > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 1px; padding-left: 1px;
+border-bottom-left-radius: 1px; padding-left: 1px;
+
+}
+.FancyOrange.rnr-s-2 > :not(.runner-c) > *.style1,
+.FancyOrange.rnr-s-2 > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -moz-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -ms-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -o-linear-gradient(top, #F9F9F9, #F2F2F2);
+;
+color: #333333;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-2 > .rnr-c.rnr-ch
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -moz-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -ms-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -o-linear-gradient(top, #F9F9F9, #F2F2F2);
+;
+
+}
+.FancyOrange.rnr-s-2 > :not(.runner-c) > *.style2,
+.FancyOrange.rnr-s-2 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #EDF1F3;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-2 > :not(.runner-c) > *.style3,
+.FancyOrange.rnr-s-2 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #6699CC;color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-2 > .rnr-c .rnr-leftbricks
+{
+margin-right: 2px;
+}
+.FancyOrange.rnr-s-2 > .rnr-c .rnr-rightbricks
+{
+margin-left: 2px;
+}
+.FancyOrange.rnr-s-2 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.FancyOrange.rnr-s-2 > * > :not(.rnr-b-wrapper) .style1,
+.FancyOrange.rnr-s-2 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-2 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.FancyOrange.rnr-s-2 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.FancyOrange.rnr-s-2 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.FancyOrange.rnr-s-2 > * > :not(.rnr-b-wrapper) .style2,
+.FancyOrange.rnr-s-2 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-2 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.FancyOrange.rnr-s-2 > * > :not(.rnr-b-wrapper) .style3,
+.FancyOrange.rnr-s-2 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-3 > .rnr-c
+{
+border-top-right-radius: 10px;border-top-left-radius: 10px;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;
+}
+.FancyOrange.rnr-s-3 > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 10px; padding-right: 5px;
+border-bottom-right-radius: 10px; padding-right: 5px;
+
+}
+.FancyOrange.rnr-s-3 > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 10px; padding-left: 5px;
+border-bottom-left-radius: 10px; padding-left: 5px;
+
+}
+.FancyOrange.rnr-s-3 > :not(.runner-c) > *.style1,
+.FancyOrange.rnr-s-3 > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #F3EBDE;color: #000000;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-3 > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #F3EBDE;
+}
+.FancyOrange.rnr-s-3 > :not(.runner-c) > *.style2,
+.FancyOrange.rnr-s-3 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #000080;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-3 > :not(.runner-c) > *.style3,
+.FancyOrange.rnr-s-3 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FF9900;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.rnr-s-3 > .rnr-c .rnr-leftbricks
+{
+margin-right: 10px;
+}
+.FancyOrange.rnr-s-3 > .rnr-c .rnr-rightbricks
+{
+margin-left: 10px;
+}
+.FancyOrange.rnr-s-3 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.FancyOrange.rnr-s-3 > * > :not(.rnr-b-wrapper) .style1,
+.FancyOrange.rnr-s-3 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-3 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.FancyOrange.rnr-s-3 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.FancyOrange.rnr-s-3 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.FancyOrange.rnr-s-3 > * > :not(.rnr-b-wrapper) .style2,
+.FancyOrange.rnr-s-3 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-3 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.FancyOrange.rnr-s-3 > * > :not(.rnr-b-wrapper) .style3,
+.FancyOrange.rnr-s-3 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > th:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > th:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > td:not(.rnr-cs)
+{
+border-top: solid #C4B1A2 1px;
+
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > td:not(.rnr-cs)
+{
+border-bottom: solid #C4B1A2 1px;
+
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > td:first-child,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > td:first-child,
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > th:first-child,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > th:first-child,
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > *.rnr-cs + td,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > *.rnr-cs + td,
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > *.rnr-cs + th,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > *.rnr-cs + th
+{
+border-right: solid #C4B1A2 1px;
+
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > *.rnr-edge,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > *.rnr-edge
+{
+border-left: solid #C4B1A2 1px;
+
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > td:first-child,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > td:first-child,
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > th:first-child,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > th:first-child,
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > *.rnr-cs + td,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > *.rnr-cs + td,
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > *.rnr-cs + th,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > *.rnr-cs + th
+{
+border-top-right-radius: 4px;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > td:first-child,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > td:first-child,
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > th:first-child,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > th:first-child,
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > *.rnr-cs + td,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > *.rnr-cs + td,
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > *.rnr-cs + th,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > *.rnr-cs + th
+{
+border-bottom-right-radius: 4px;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > .rnr-edge,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > .rnr-edge
+{
+border-top-left-radius: 4px;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > .rnr-edge,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > .rnr-edge
+{
+border-bottom-left-radius: 4px;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > * > .rnr-edge,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > * > .rnr-edge
+{
+min-width: 4px;
+
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow > th:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow > th:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow > td:not(.rnr-cs)
+{
+background-color: #FF8E01; background-image: none;font-family: Verdana, sans-serif; font-size: 11px; font-weight: bold; font-style: normal; text-decoration: none;color: #070400;padding: 5px 4px;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-bottomrow > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-bottomrow > td:not(.rnr-cs)
+{
+background-color: #FF8E01; background-image: none;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;color: #070400;padding: 5px 4px;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row > td:not(.rnr-cs)
+{
+background-color: #EDF1F3; background-image: none;font-family: Verdana, sans-serif; font-size: 11px; font-weight: normal; font-style: normal; text-decoration: none;color: #333333;color: #333333;padding: 5px 4px;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row:nth-last-child(2n+1) > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row:nth-last-child(2n+1) > td:not(.rnr-cs)
+{
+background-color: #FFFFFF; background-image: none;color: #333333;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical).hoverable > * > .rnr-row:hover > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord.hoverable > * > .rnr-row:hover > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row > td.rnr-selected,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row > td.rnr-selected
+{
+background-color: #FD994C; background-image: none;color: #333333;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical).hoverable > * > .rnr-row:hover:nth-last-child(2n+1) > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord.hoverable > * > .rnr-row:hover:nth-last-child(2n+1) > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row:nth-last-child(2n+1) > td.rnr-selected,
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row:nth-last-child(2n+1) > td.rnr-selected
+{
+background-color: #EE9900; background-image: none;color: #333333;
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > thead > tr:last-child > th:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > thead > tr:last-child > th:not(.rnr-cs)
+{
+border-bottom: solid #C4B1A2 1px;
+
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > tr.rnr-row > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > tr.rnr-row > td:not(.rnr-cs)
+{
+border-top: solid #C4B1A2 1px;
+
+}
+.FancyOrange.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:not(.rnr-bottomrow) + .rnr-bottomrow > td:not(.rnr-cs),
+.FancyOrange.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:not(.rnr-bottomrow) + .rnr-bottomrow > td:not(.rnr-cs)
+{
+border-top: solid #C4B1A2 1px;
+
+}
+.FancyOrange .rnr-search-highlight
+{
+color: #FF0000; background-color: transparent;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > *,
+.FancyOrange .rnr-b-vmenu.tree.main > *:not(.subitem)
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -moz-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -ms-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -o-linear-gradient(top, #F9F9F9, #F2F2F2);
+;
+color:#5E5E5E;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > * > hr,
+.FancyOrange .rnr-b-vmenu.tree.main > *:not(.subitem) > hr
+{
+border-color:#5E5E5E;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > *:hover:not(.expanded):not(.menuSeparator),
+.FancyOrange .rnr-b-vmenu.tree.main > *:not(.subitem):not(.manage):hover:not(.menuSeparator)
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #FBC4A0, #F66C13);
+background: -moz-linear-gradient(top, #FBC4A0, #F66C13);
+background: -ms-linear-gradient(top, #FBC4A0, #F66C13);
+background: -o-linear-gradient(top, #FBC4A0, #F66C13);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > *.current.current.current,
+.FancyOrange .rnr-b-vmenu.tree.main > *:not(.subitem).current.current.current
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #FBC4A0, #F66C13);
+background: -moz-linear-gradient(top, #FBC4A0, #F66C13);
+background: -ms-linear-gradient(top, #FBC4A0, #F66C13);
+background: -o-linear-gradient(top, #FBC4A0, #F66C13);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > *:hover:hover:hover.expanded
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #FBC4A0, #F66C13);
+background: -moz-linear-gradient(top, #FBC4A0, #F66C13);
+background: -ms-linear-gradient(top, #FBC4A0, #F66C13);
+background: -o-linear-gradient(top, #FBC4A0, #F66C13);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > * > ul li,
+.FancyOrange .rnr-b-vmenu.tree.main > *.subitem
+{
+background-image:none; background-color: #D2D8DC;color:#000000;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > * > ul li > hr,
+.FancyOrange .rnr-b-vmenu.tree.main > *.subitem > hr
+{
+border-color:#000000;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > * > ul li:hover:not(.expanded):not(.menuSeparator),
+.FancyOrange .rnr-b-vmenu.tree.main > *.subitem:hover:not(.menuSeparator)
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > * > ul li.current.current.current,
+.FancyOrange .rnr-b-vmenu.tree.main > *.subitem.current.current.current
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > * > ul li:hover:hover:hover.expanded
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.tree.main > *:not(.subitem) > div
+{
+padding: 8px 4px; margin:1px 2px;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > * > :not(ul) > *
+{
+padding: 8px 4px; margin:1px 2px;
+}
+.FancyOrange .rnr-b-vmenu.tree.main > *.subitem > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.FancyOrange .rnr-b-vmenu.simple.main > * > ul li > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.FancyOrange .rnr-b-vmenu.simple.main >  * ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.FancyOrange .rnr-b-vmenu.simple.second > *,
+.FancyOrange .rnr-b-vmenu.tree.second > *:not(.subitem)
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -moz-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -ms-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -o-linear-gradient(top, #F9F9F9, #F2F2F2);
+;
+color:#5E5E5E;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > * > hr,
+.FancyOrange .rnr-b-vmenu.tree.second > *:not(.subitem) > hr
+{
+border-color:#5E5E5E;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > *:hover:not(.expanded):not(.menuSeparator),
+.FancyOrange .rnr-b-vmenu.tree.second > *:not(.subitem):not(.manage):hover:not(.menuSeparator)
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #FBC4A0, #F66C13);
+background: -moz-linear-gradient(top, #FBC4A0, #F66C13);
+background: -ms-linear-gradient(top, #FBC4A0, #F66C13);
+background: -o-linear-gradient(top, #FBC4A0, #F66C13);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > *.current.current.current,
+.FancyOrange .rnr-b-vmenu.tree.second > *:not(.subitem).current.current.current
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #FBC4A0, #F66C13);
+background: -moz-linear-gradient(top, #FBC4A0, #F66C13);
+background: -ms-linear-gradient(top, #FBC4A0, #F66C13);
+background: -o-linear-gradient(top, #FBC4A0, #F66C13);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > *:hover:hover:hover.expanded
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #FBC4A0, #F66C13);
+background: -moz-linear-gradient(top, #FBC4A0, #F66C13);
+background: -ms-linear-gradient(top, #FBC4A0, #F66C13);
+background: -o-linear-gradient(top, #FBC4A0, #F66C13);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > * > ul li,
+.FancyOrange .rnr-b-vmenu.tree.second > *.subitem
+{
+background-image:none; background-color: #D2D8DC;color:#000000;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > * > ul li > hr,
+.FancyOrange .rnr-b-vmenu.tree.second > *.subitem > hr
+{
+border-color:#000000;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > * > ul li:hover:not(.expanded):not(.menuSeparator),
+.FancyOrange .rnr-b-vmenu.tree.second > *.subitem:hover:not(.menuSeparator)
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > * > ul li.current.current.current,
+.FancyOrange .rnr-b-vmenu.tree.second > *.subitem.current.current.current
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > * > ul li:hover:hover:hover.expanded
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-vmenu.tree.second > *:not(.subitem) > div
+{
+padding: 8px 4px; margin:1px 2px;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > * > :not(ul) > *
+{
+padding: 8px 4px; margin:1px 2px;
+}
+.FancyOrange .rnr-b-vmenu.tree.second > *.subitem > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.FancyOrange .rnr-b-vmenu.simple.second > * > ul li > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.FancyOrange .rnr-b-vmenu.simple.second >  * ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.FancyOrange .rnr-b-hmenu.main > div:not(.rnr-hseparator)
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #C1C1C1, #F2F2F2, #C1C1C1);
+background: -moz-linear-gradient(top, #C1C1C1, #F2F2F2, #C1C1C1);
+background: -ms-linear-gradient(top, #C1C1C1, #F2F2F2, #C1C1C1);
+background: -o-linear-gradient(top, #C1C1C1, #F2F2F2, #C1C1C1);
+;
+color:#5E5E5E;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;padding: 5px 4px;border-top-left-radius: 8px;
+}
+.FancyOrange .rnr-b-hmenu.main > div:not(.rnr-hseparator) > hr
+{
+border-color:#5E5E5E;
+}
+.FancyOrange .rnr-b-hmenu.main:hover:not(.expanded) > div:not(.rnr-hseparator)
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -moz-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -ms-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -o-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.main.current.current > div:not(.rnr-hseparator)
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -moz-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -ms-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -o-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.main:hover.expanded > div:not(.rnr-hseparator)
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -moz-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -ms-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -o-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.main > ul li
+{
+background-image:none; background-color: #D2D8DC;color:#000000;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.main > ul li > hr
+{
+border-color:#000000;
+}
+.FancyOrange .rnr-b-hmenu.main > ul li:hover:not(.expanded):not(.menuSeparator)
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.main > ul li.current.current
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.main > ul li:hover.expanded
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.main > ul li > div > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.FancyOrange .rnr-b-hmenu.main ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.FancyOrange .rnr-b-hmenu.main.rnr-b-hmenu.rnr-b-hmenu
+{
+padding-bottom: 0; padding-left:0; padding-right:0; vertical-align: bottom;
+}
+.FancyOrange .rnr-b-hmenu.second > div:not(.rnr-hseparator)
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #C1C1C1, #F2F2F2, #C1C1C1);
+background: -moz-linear-gradient(top, #C1C1C1, #F2F2F2, #C1C1C1);
+background: -ms-linear-gradient(top, #C1C1C1, #F2F2F2, #C1C1C1);
+background: -o-linear-gradient(top, #C1C1C1, #F2F2F2, #C1C1C1);
+;
+color:#5E5E5E;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;padding: 5px 4px;border-top-left-radius: 8px;
+}
+.FancyOrange .rnr-b-hmenu.second > div:not(.rnr-hseparator) > hr
+{
+border-color:#5E5E5E;
+}
+.FancyOrange .rnr-b-hmenu.second:hover:not(.expanded) > div:not(.rnr-hseparator)
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -moz-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -ms-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -o-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.second.current.current > div:not(.rnr-hseparator)
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -moz-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -ms-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -o-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.second:hover.expanded > div:not(.rnr-hseparator)
+{
+background-color: #F66C13;
+background: -webkit-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -moz-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -ms-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+background: -o-linear-gradient(top, #C4560F, #F66C13, #C4560F);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.second > ul li
+{
+background-image:none; background-color: #D2D8DC;color:#000000;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.second > ul li > hr
+{
+border-color:#000000;
+}
+.FancyOrange .rnr-b-hmenu.second > ul li:hover:not(.expanded):not(.menuSeparator)
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.second > ul li.current.current
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.second > ul li:hover.expanded
+{
+background-image:none; background-color: #F66C13;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .rnr-b-hmenu.second > ul li > div > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.FancyOrange .rnr-b-hmenu.second ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.FancyOrange .rnr-b-hmenu.second.rnr-b-hmenu.rnr-b-hmenu
+{
+padding-bottom: 0; padding-left:0; padding-right:0; vertical-align: bottom;
+}
+body.FancyOrange
+{
+
+background-color:#E6E6E6;
+}
+.FancyOrange .rnr-list
+{
+color: #404040;background-color: #F2F2F2;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;border: solid #000000 1px;box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.FancyOrange .rnr-tab.selected
+{
+background-color:#0000FF;
+border-top-right-radius:4px;
+border-top-left-radius:4px;
+
+}
+.FancyOrange .rnr-tab
+{
+background-color:#C0C0C0;
+border-top-right-radius:4px;
+border-top-left-radius:4px;
+border: solid #000000 1px; border-bottom-width:0;
+}
+.FancyOrange .rnr-tab.selected > a
+{
+color: #FFFFFF;
+
+}
+.FancyOrange .rnr-tab > a
+{
+color: #000000;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .yui-navset .yui-content
+{
+border: solid #0000FF 1px;border-top-width: 5px;
+}
+.FancyOrange  .rnr-message
+{
+background-color: #F3EBDE;border: solid #A80000 1px;color: #008000;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange  .rnr-error.rnr-error
+{
+color: #A80000;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.FancyOrange .yui3-panel-content.yui3-panel-content
+{
+border: solid #C4B1A2 1px;border-radius: 2px;
+}
+.FancyOrange  .yui3-panel .yui3-widget-hd.yui3-widget-hd.yui3-widget-hd
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -moz-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -ms-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -o-linear-gradient(top, #F9F9F9, #F2F2F2);
+;
+font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;color: #696969;
+}
+.FancyOrange  .yui3-widget-ft
+{
+background-color: #F3EBDE; background-image: none;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;color: #696969;
+}
+.FancyOrange .rnr-dbbordered
+{
+border: solid #C4B1A2 1px;border-radius: 2px;
+}
+.FancyOrange  .rnr-dbelemheader
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -moz-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -ms-linear-gradient(top, #F9F9F9, #F2F2F2);
+background: -o-linear-gradient(top, #F9F9F9, #F2F2F2);
+;
+font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;color: #696969;
+}
+.FancyOrange  .rnr-dbelemfooter
+{
+background-color: #D8D8D8; background-image: none;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;color: #000000;
+}
+.FancyOrange  .rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow
+{
+background-color: #FFFACD; background-image: none;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;color: #4C4951;
+}
+.FancyOrange .rnr-dashboard
+{
+background-color: #FFFFFF;
+}
+.FancyOrange .rnr-button.rnr-button,
+.FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+.FancyOrange .button.button.button.rnr-button.rnr-button,
+ .rnr-pagewrapper .FancyOrange .rnr-button.rnr-button,
+ .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button.rnr-button
+{
+border: solid 1px;border-radius: 2px;padding: 3px 10px 3px;background-color: #FD994C;
+background: -webkit-linear-gradient(top, #FEE2CC, #FD994C);
+background: -moz-linear-gradient(top, #FEE2CC, #FD994C);
+background: -ms-linear-gradient(top, #FEE2CC, #FD994C);
+background: -o-linear-gradient(top, #FEE2CC, #FD994C);
+;
+border-color: #000000;color: #6F3101;
+font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .rnr-button.rnr-button.img,
+.FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+.FancyOrange .button.button.button.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .FancyOrange .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button.rnr-button.img
+{
+padding: 3px;
+
+}
+.FancyOrange .rnr-button:hover,
+.FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+.FancyOrange .button.button.button.rnr-button:hover,
+ .rnr-pagewrapper .FancyOrange .rnr-button:hover,
+ .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button:hover
+{
+background-color: #FC7812;
+background: -webkit-linear-gradient(top, #FED9BC, #FC7812);
+background: -moz-linear-gradient(top, #FED9BC, #FC7812);
+background: -ms-linear-gradient(top, #FED9BC, #FC7812);
+background: -o-linear-gradient(top, #FED9BC, #FC7812);
+;
+border-color: #000000;color: #140900;
+
+}
+.FancyOrange .rnr-button:active,
+.FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+.FancyOrange .button.button.button.rnr-button:active,
+ .rnr-pagewrapper .FancyOrange .rnr-button:active,
+ .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button:active
+{
+background-color: #FC7812;
+background: -webkit-linear-gradient(top, #FED9BC, #FC7812);
+background: -moz-linear-gradient(top, #FED9BC, #FC7812);
+background: -ms-linear-gradient(top, #FED9BC, #FC7812);
+background: -o-linear-gradient(top, #FED9BC, #FC7812);
+;
+border-color: #000000;color: #140900;
+
+}
+.FancyOrange .rnr-button.disabled,
+.FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+.FancyOrange .button.button.button.rnr-button.disabled,
+ .rnr-pagewrapper .FancyOrange .rnr-button.disabled,
+ .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .button.button.button.rnr-button.disabled
+{
+background-color: #C0C0C0;
+background: -webkit-linear-gradient(top, #EDEDED, #C0C0C0);
+background: -moz-linear-gradient(top, #EDEDED, #C0C0C0);
+background: -ms-linear-gradient(top, #EDEDED, #C0C0C0);
+background: -o-linear-gradient(top, #EDEDED, #C0C0C0);
+;
+border-color: #000000;color: #A9A9A9;
+
+}
+.FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+.FancyOrange .link.link.link.rnr-button.rnr-button,
+ .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button.rnr-button
+{
+background: none; border: none; ;
+border: none;border-radius: 0px;padding: 4px 8px 4px;color: #FF9900;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+.FancyOrange .link.link.link.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button.rnr-button.img
+{
+padding: 4px;
+
+}
+.FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+.FancyOrange .link.link.link.rnr-button:hover,
+ .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button:hover
+{
+color: #F66C13;
+
+}
+.FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+.FancyOrange .link.link.link.rnr-button:active,
+ .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button:active
+{
+color: #F66C13;
+
+}
+.FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+.FancyOrange .link.link.link.rnr-button.disabled,
+ .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .link.link.link.rnr-button.disabled
+{
+color: #404040;
+
+}
+.FancyOrange .main.main.main.rnr-button.rnr-button,
+ .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button.rnr-button
+{
+border: solid 1px;border-radius: 2px;padding: 3px 10px 3px;background-color: #FD994C;
+background: -webkit-linear-gradient(top, #FEE2CC, #FD994C);
+background: -moz-linear-gradient(top, #FEE2CC, #FD994C);
+background: -ms-linear-gradient(top, #FEE2CC, #FD994C);
+background: -o-linear-gradient(top, #FEE2CC, #FD994C);
+;
+border-color: #000000;color: #6F3101;
+font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.FancyOrange .main.main.main.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button.rnr-button.img
+{
+padding: 3px;
+
+}
+.FancyOrange .main.main.main.rnr-button:hover,
+ .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button:hover
+{
+background-color: #FC7812;
+background: -webkit-linear-gradient(top, #FED9BC, #FC7812);
+background: -moz-linear-gradient(top, #FED9BC, #FC7812);
+background: -ms-linear-gradient(top, #FED9BC, #FC7812);
+background: -o-linear-gradient(top, #FED9BC, #FC7812);
+;
+border-color: #000000;color: #140900;
+
+}
+.FancyOrange .main.main.main.rnr-button:active,
+ .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button:active
+{
+background-color: #FC7812;
+background: -webkit-linear-gradient(top, #FED9BC, #FC7812);
+background: -moz-linear-gradient(top, #FED9BC, #FC7812);
+background: -ms-linear-gradient(top, #FED9BC, #FC7812);
+background: -o-linear-gradient(top, #FED9BC, #FC7812);
+;
+border-color: #000000;color: #140900;
+
+}
+.FancyOrange .main.main.main.rnr-button.disabled,
+ .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .FancyOrange .main.main.main.rnr-button.disabled
+{
+background-color: #C0C0C0;
+background: -webkit-linear-gradient(top, #EDEDED, #C0C0C0);
+background: -moz-linear-gradient(top, #EDEDED, #C0C0C0);
+background: -ms-linear-gradient(top, #EDEDED, #C0C0C0);
+background: -o-linear-gradient(top, #EDEDED, #C0C0C0);
+;
+border-color: #000000;color: #A9A9A9;
+
+}
