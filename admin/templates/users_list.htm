@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<HTML {$html_attrs}><HEAD> 
+<META http-equiv="X-UA-Compatible" content="IE=Edge"> <TITLE>{$pagetitle} </TITLE> 
+<META http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<LINK href="styles/default.css" rel="stylesheet" type="text/css"> {BEGIN rtlCSS}<LINK href="styles/defaultRTL.css" rel="stylesheet" type="text/css">{END rtlCSS} {BEGIN styleCSSFiles}<LINK href="{$stylepath}" rel="stylesheet" type="text/css">{END styleCSSFiles} {BEGIN pageCSSFiles}<LINK href="{$pagestylepath}" rel="stylesheet" type="text/css">{END pageCSSFiles} 
+<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD> 
+<BODY class="{$stylename} function-list" {$bodyattrs}>{BEGIN body}
+{$header} 
+<DIV class="rnr-page">
+<DIV class="rnr-top {$blockclass_top}">
+{BEGIN container_search}
+<DIV class="rnr-c rnr-ch rnr-c-search">
+<DIV class="rnr-hfiller"></DIV>
+{BEGIN details_block}<DIV class="style1 rnr-br rnr-b-details_found {$brickclass_details_found}"><SPAN {$details_attrs}> Details found: 
+<B><SPAN class="rnr-details_found_count">
+{$records_found} </SPAN> </B> </SPAN> </DIV>
+{END details_block}{BEGIN pages_block}<DIV class="style1 rnr-br rnr-b-page_of {$brickclass_page_of}"><SPAN {$pages_attrs}> Page <B>
+{$page} </B> of <B>
+{$maxpages} </B> </SPAN> </DIV>
+{END pages_block}{BEGIN recordspp_block}<DIV class="style1 rnr-br rnr-b-recsperpage {$brickclass_recsperpage}"><SPAN id="recordspp_block{$id}" name="recordspp_block{$id}"> 
+Records Per Page:&nbsp;
+{$recsPerPage} </SPAN> </DIV>{END recordspp_block}</DIV>{END container_search}</DIV>
+<DIV class="rnr-middle">
+<DIV class="rnr-left {$blockclass_left}">
+{BEGIN container_logg}
+<DIV class="rnr-c rnr-cv rnr-c-logg">
+{BEGIN security_block}<DIV class="rnr-brickcontents style1 rnr-b-loggedas {$brickclass_loggedas}">
+<DIV id="login_block{$id}">{BEGIN loggedas_message}<SPAN> Logged on 
+as&nbsp; <B>
+{$username} </B> <BR><BR></SPAN> {END loggedas_message}{BEGIN guestloginbutton}<SPAN><A class="rnr-button" href="#" {$guestloginlink_attrs}> 
+Login </A> </SPAN> {END guestloginbutton}{BEGIN logoutbutton}<A class="rnr-button" href="login.php?a=logout" {$logoutlink_attrs}> Log out </A> <!-- Permissions --> 
+{END logoutbutton}{BEGIN changepwd_link}<DIV><A class="rnr-button" href="changepwd.php" {$changepwdlink_attrs}> Change password </A> 
+</DIV>{END changepwd_link}</DIV></DIV>{END security_block}</DIV>{END container_logg}</DIV>
+<DIV class="rnr-center {$blockclass_center}">
+{BEGIN container_recordcontrols}
+<DIV 
+class="rnr-c rnr-ch rnr-c-recordcontrols">
+{BEGIN newrecord_controls_block}<DIV class="style1 rnr-bl rnr-b-recordcontrols_new {$brickclass_recordcontrols_new}"> {BEGIN add_link}<A class="rnr-button" href="users_add.php" {$addlink_attrs}> Add new </A> 
+{END add_link}</DIV>{END newrecord_controls_block} 
+{BEGIN record_controls_block}<DIV class="style1 rnr-bl rnr-b-recordcontrol {$brickclass_recordcontrol}">{BEGIN deleteselected_link}<A class="rnr-button" href="#" {$deleteselectedlink_attrs} {$deleteselectedlink_span}> 
+Delete selected </A> {END deleteselected_link}</DIV>
+{END record_controls_block}<DIV class="rnr-hfiller"></DIV></DIV>{END container_recordcontrols}
+{BEGIN container_message}
+<DIV class="rnr-c rnr-ch rnr-c-message">
+{BEGIN message_block}<DIV class="style1 rnr-bc rnr-b-message {$brickclass_message}">
+<DIV class="rnr-message">
+{$message} </DIV></DIV>{END message_block}</DIV>{END container_message}
+{BEGIN container_grid}
+{BEGIN grid_block}<TABLE class="rnr-c rnr-cont rnr-c-grid rnr-b-grid rnr-gridtable  hoverable " style="width: 366px;" cellpadding="0">
+  <THEAD>{BEGIN grid_header}
+  <TR class="rnr-toprow style1 {$gridHeader_class}">{BEGIN record_header}
+    {BEGIN listIcons_column}<TH style="width: 60px;" ieditcont="all"> &nbsp;</TH>
+    {END listIcons_column}{BEGIN checkbox_column}<TH class="rnr-bc" style="width: 13px;"><INPUT type="checkbox" {$checkboxheader_attrs}> </TH>
+    {END checkbox_column}{BEGIN userId_fieldheadercolumn}<TH class="rnr-gridfieldlabel {$userId_class}" style="width: 63px;">{BEGIN userId_fieldheader}<SPAN {$userId_orderlinkattrs}>
+      {$label users userId} </SPAN> {END userId_fieldheader}</TH>
+    {END userId_fieldheadercolumn}{BEGIN userName_fieldheadercolumn}<TH class="rnr-gridfieldlabel {$userName_class}" style="width: 84px;">{BEGIN userName_fieldheader}<SPAN {$userName_orderlinkattrs}>
+      {$label users userName} </SPAN> {END userName_fieldheader}</TH>
+    {END userName_fieldheadercolumn}{BEGIN userEmail_fieldheadercolumn}<TH class="rnr-gridfieldlabel {$userEmail_class}" style="width: 82px;">{BEGIN userEmail_fieldheader}<SPAN {$userEmail_orderlinkattrs}>
+      {$label users userEmail} </SPAN> {END userEmail_fieldheader}</TH>
+    {END userEmail_fieldheadercolumn}<TH class="rnr-edge" style="width: 4px;"> &nbsp;</TH>
+    {BEGIN endrecordheader_block}<TH class="rnr-cs" style="width: 10px;"> &nbsp;
+  </TH>{END endrecordheader_block}{END record_header}</TR>{END grid_header}</THEAD>
+  <TBODY>
+  {BEGIN grid_row}<TR class="rnr-row style1 {$rowclass}" {$rowattrs} {$rowstyle}>{BEGIN grid_record}
+    {BEGIN listIcons_column}<TD class="rnr-cc rnr-bc rnr-icons" style="width: 60px;" ieditcont="all" {$rowstyle} {$recordattrs}>{BEGIN edit_column}{BEGIN edit_link}<A title="Edit" class="rnr-button-img" data-icon="edit" {$editlink_attrs}> </A>{END edit_link}{END edit_column} </TD>
+    {END listIcons_column}{BEGIN checkbox_column}<TD class="rnr-bc" style="width: 13px;" ieditcont="checkBox" {$rowstyle} {$recordattrs}>{BEGIN checkbox}<INPUT type="checkbox" {$checkbox_attrs}>{END checkbox} </TD>
+    {END checkbox_column}{BEGIN userId_fieldcolumn}<TD class="{$userId_class}" style="width: 63px;" {$userId_style} {$recordattrs}>
+      {$userId_value} </TD>
+    {END userId_fieldcolumn}{BEGIN userName_fieldcolumn}<TD class="{$userName_class}" style="width: 84px;" {$userName_style} {$recordattrs}>
+      {$userName_value} </TD>
+    {END userName_fieldcolumn}{BEGIN userEmail_fieldcolumn}<TD class="{$userEmail_class}" style="width: 82px;" {$userEmail_style} {$recordattrs}>
+      {$userEmail_value} </TD>
+    {END userEmail_fieldcolumn}<TD class="rnr-edge" style="width: 4px;" {$recordattrs}> 
+      &nbsp;</TD>
+    {BEGIN endrecord_block}<TD class="rnr-cs" style="width: 10px;" {$endrecordblock_attrs}> 
+      &nbsp;</TD>{END endrecord_block}{END grid_record}</TR>{END grid_row}</TBODY></TABLE>{END grid_block}{END container_grid}
+{BEGIN container_pagination}
+<DIV class="rnr-c rnr-ch rnr-c-pagination">
+{BEGIN pagination_block}<DIV class="style1 rnr-bc rnr-b-pagination {$brickclass_pagination}">
+{$pagination} </DIV>{END pagination_block}</DIV>{END container_pagination}</DIV>
+<DIV class="rnr-right {$blockclass_right}"></DIV></DIV>
+<DIV class="rnr-bottom {$blockclass_bottom}"><!--%%bottom%%--> </DIV></DIV>
+{$footer}{END body} </BODY></HTML>
